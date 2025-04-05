@@ -1,1 +1,6 @@
 Levantmento de Requisitos - RF
+
+Terá uma tela de cadastro inicialmente;
+Será exposto telas com demostrativos de consertos;
+Banco de dados será noSql para cadastro apenas com banco gratuito e online;
+Sistema Python, Mkdocs para hospedagem gratuita;
