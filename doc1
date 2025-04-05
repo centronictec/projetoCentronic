@@ -1,11 +1,8 @@
 Levantmento de Requisitos - RF
 
-<<<<<<< HEAD
 Deve-se informar em documento o que será necessário inicialmente para este projeto como abaixo:
-
-=======
 Terá uma tela de cadastro inicialmente;
 Será exposto telas com demostrativos de consertos;
 Banco de dados será noSql para cadastro apenas com banco gratuito e online;
 Sistema Python, Mkdocs para hospedagem gratuita;
->>>>>>> refs/remotes/origin/main
+
