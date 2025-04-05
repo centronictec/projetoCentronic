@@ -1,0 +1,2 @@
+# projetoCentronic
+Documentação obrigatória.
